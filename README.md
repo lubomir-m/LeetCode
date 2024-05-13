@@ -1,4 +1,4 @@
-# LeetCode
+<h1 align="center">LeetCode</h1>
 This repository contains my solutions to problems that were included either in the [LeetCode Courses](https://leetcode.com/explore/) (also called Explore Cards) that I have taken or in the [LeetCode Problemset](https://leetcode.com/problemset/).
 
 I am using the [LeetSync - LeetCode to GitHub Synchronizer](https://chromewebstore.google.com/detail/ppkbejeolfcbaomanmbpjdbkfcjfhjnd) Google Chrome extension to sync my problem submissions with this repository.
