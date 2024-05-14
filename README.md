@@ -1,4 +1,7 @@
-<h1 align="center">LeetCode</h1>
+<h1 align="center"><img src="leetcode_logo.svg" height="100" title="LeetCode"/></h1>
+
+<a href="https://leetcode.com/u/lbmrmnkvsk/"> 
+         <img src="https://leetcard.jacoblin.cool/lbmrmnkvsk?theme=light&font=Noto%20Sans&animation=true" height="150" title="LeetCode Statistics"/></a>
 
 This repository contains my solutions to problems that were included either in the [LeetCode Courses](https://leetcode.com/explore/) (also called Explore Cards) that I have taken or in the [LeetCode Problemset](https://leetcode.com/problemset/).
 
