@@ -8,6 +8,7 @@ This repository contains my solutions to problems that were included either in t
 I am using the [LeetSync - LeetCode to GitHub Synchronizer](https://chromewebstore.google.com/detail/ppkbejeolfcbaomanmbpjdbkfcjfhjnd) Google Chrome extension to sync my problem submissions with this repository.
 
 At the moment I am doing the [Course Layers](https://leetcode.com/explore/learn/card/the-leetcode-beginners-guide/679/sql-syntax/4358/):
-  <br>1. **First and Second Layers:** Arrays 101, Linked List, Array and String, Hash Table, Recursion, Queue & Stack, Heap, and Binary Search
+  <br>1. **First and Second Layers:** Arrays 101, Linked List, Array and String, Hash Table, Recursion, Queue & Stack, Heap,
+  <br>&nbsp;&nbsp;&nbsp; and Binary Search
   <br>2. **Second and Third Layers:** Recursion, Binary Tree, Binary Search Tree, Trie, N-ary Tree, and Recursion II
   <br>3. **Third and Fourth Layers:** Recursion II, Dynamic Programming, and Graph
