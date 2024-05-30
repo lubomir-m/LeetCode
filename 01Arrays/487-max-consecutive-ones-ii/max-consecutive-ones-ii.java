@@ -1,36 +1,26 @@
 class Solution {
-     public int findMaxConsecutiveOnes(int[] nums) {
-            if (nums.length == 1) {
-                return 1;
-            }
-
-            List<Integer> zeroIndexes = new ArrayList<>();
-            for (int i = 0; i < nums.length; i++) {
-                if (nums[i] == 0) {
-                    zeroIndexes.add(i);
-                }
-            }
-            
-            if (zeroIndexes.isEmpty()) {
-                return  nums.length;
-            }
-
+      public int findMaxConsecutiveOnes(int[] nums) {
             int max = 0;
-            for (int zeroIndex : zeroIndexes) {
-                nums[zeroIndex] = 1;
-                int count = 0;
-                for (int i = 0; i < nums.length; i++) {
-                    if (nums[i] == 1) {
-                        count++;
-                        if (max < count) {
-                            max = count;
-                        }
-                    } else {
-                        count = 0;
-                    }
+            int zeros = 0;
+            int left = 0;
+            int right = 0;
+
+            while (right < nums.length) {
+                if (nums[right] == 0) {
+                    zeros++;
                 }
 
-                nums[zeroIndex] = 0;
+                while (zeros >= 2) {
+                    if (nums[left] == 0) {
+                        zeros--;
+                    }
+                    left++;
+                }
+
+                if (max < right - left + 1) {
+                    max = right - left + 1;
+                }
+                right++;
             }
 
             return max;
