@@ -14,3 +14,9 @@ At the moment, I am doing the [Course Layers](https://leetcode.com/explore/learn
   <li><b>Third and Fourth Layers:</b> Recursion II, Dynamic Programming, and Graph</li>
   <li><b>Other:</b> Machine Learning 101, Decision Tree, Bit Manipulation, Sorting, Databases & SQL, and System Design for Interviews and Beyond</li>
 </ol>
+
+## List of Completed Courses
+
+<ol>
+         <li><a href="https://leetcode.com/explore/learn/card/fun-with-arrays/">Arrays</a></li>
+</ol>
