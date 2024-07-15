@@ -20,4 +20,5 @@ At the moment, I am doing the [Course Layers](https://leetcode.com/explore/learn
 <ol>
          <li><a href="https://leetcode.com/explore/learn/card/fun-with-arrays/">Arrays</a></li>
          <li><a href="https://leetcode.com/explore/learn/card/linked-list/">Linked List</a></li>
+         <li><a href="https://leetcode.com/explore/learn/card/array-and-string/">Array and String</a></li>
 </ol>
